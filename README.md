@@ -4,7 +4,9 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/robmccormack89/robmccormack89/master/wave.gif" width="30px">
 
-My name is Robert McCormack and Wordpress / PHP Developer. I'm from Mullingar, Ireland & am currently looking for opportunities. <!-- You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
+I'm Robert McCormack; a Wordpress/PHP Developer from Mullingar, Ireland & am currently looking for opportunities. <!-- You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
+
+You can reach me & jobs@robertmccormack.com.
 
 ## &#x270d; Blog & Writing!
 
