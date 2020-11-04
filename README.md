@@ -4,13 +4,13 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/robmccormack89/robmccormack89/master/wave.gif" width="30px">
 
-I'm Robert McCormack; a Wordpress/PHP Developer from Mullingar, Ireland & am currently looking for opportunities. <!-- You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
+I'm Robert McCormack; a Wordpress/PHP Developer from Mullingar, Ireland. <!-- You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
 
 You can reach me & jobs@robertmccormack.com.
 
-## &#x270d; Blog & Writing!
+<!-- ## &#x270d; Blog & Writing!
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [robertmccomack.com](https://robertmccomack.com/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [robertmccomack.com](https://robertmccomack.com/). -->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=ff0000)
