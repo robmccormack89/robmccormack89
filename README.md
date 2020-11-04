@@ -6,7 +6,7 @@
 
 I'm Robert McCormack; a Wordpress/PHP Developer from Mullingar, Ireland. <!-- You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
 
-You can reach me & jobs@robertmccormack.com.
+You can email me at jobs@robertmccormack.com.
 
 <!-- ## &#x270d; Blog & Writing!
 
