@@ -37,7 +37,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>
 
 <a href="https://github.com/robmccormack89/rmcc-starter-theme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robmccormack89&repormcc-starter-theme&title_color=ffffff&text_color=c9cacc&icon_color=ff0000&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robmccormack89&repo=rmcc-starter-theme&title_color=ffffff&text_color=c9cacc&icon_color=ff0000&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/robmccormack89/organic-wp">
