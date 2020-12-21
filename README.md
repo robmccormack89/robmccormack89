@@ -28,16 +28,16 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/robmccormack89/robmccormack89">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robmccormack89&line_height=24&hide=hack&layout=compact&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=ff0000&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robmccormack89&line_height=24&hide=hack&layout=compact&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/robmccormack89/robmccormack89">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robmccormack89&hide=contribs&show_icons=true&line_height=24&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ff0000&bg_color=1d1f21" alt="Robert's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robmccormack89&hide=contribs&show_icons=true&line_height=24&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=1d1f21" alt="Robert's GitHub Stats" />
 </a>
 
 <a href="https://github.com/robmccormack89/rmcc-starter-theme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robmccormack89&line_height=24&repo=rmcc-starter-theme&title_color=ffffff&text_color=c9cacc&icon_color=ff0000&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robmccormack89&line_height=24&repo=rmcc-starter-theme&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/robmccormack89/organic-wp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robmccormack89&line_height=24&repo=organic-wp&title_color=ffffff&text_color=c9cacc&icon_color=ff0000&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=robmccormack89&line_height=24&repo=organic-wp&title_color=ffffff&text_color=c9cacc&icon_color=58a6ff&bg_color=1d1f21" />
 </a>
