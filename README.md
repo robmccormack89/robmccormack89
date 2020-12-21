@@ -1,12 +1,10 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
 <!-- [![Header](https://raw.githubusercontent.com/robmccormack89/robmccormack89/master/readme_header.png "Header")](https://robertmccomack.com/) -->
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/robmccormack89/robmccormack89/master/wave.gif" width="30px">
 
-I'm Robert McCormack; a Wordpress/PHP Developer from Mullingar, Ireland. <!-- You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
+I'm Robert McCormack; a Wordpress/PHP Developer from Mullingar, Ireland.
 
-You can email me at jobs@robertmccormack.com.
+You can email me at me@robertmccormack.com.
 
 <!-- ## &#x270d; Blog & Writing!
 
