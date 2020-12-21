@@ -31,7 +31,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robmccormack89&layout=compact&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=ff0000&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/robmccormack89/robmccormack89">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robmccormack89&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ff0000&bg_color=1d1f21" alt="Robert's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robmccormack89&hide=stars,commits,prs,issues&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ff0000&bg_color=1d1f21" alt="Robert's GitHub Stats" />
 </a>
 
 <a href="https://github.com/robmccormack89/rmcc-starter-theme">
